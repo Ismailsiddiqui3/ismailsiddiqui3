@@ -1,8 +1,13 @@
 ## Hi there 👋 Ismail Here,
+-🎓 Background in Computer Science / Software Engineering 
+- 💻 Proficient in developing both frontend and backend components of web applications
+- 🌱 Currently enhancing my expertise in Software technologies and modern practices
+
+
+
 
 
  🧰 Tech Stack & Tools
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
