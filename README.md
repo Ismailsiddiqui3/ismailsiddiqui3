@@ -41,5 +41,5 @@
 ---
 
 ### 🌐 Portfolio
-[Check out my portfolio →](#)
+https://ismail-nett.netlify.app/
 
